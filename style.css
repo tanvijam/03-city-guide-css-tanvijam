@@ -1,1 +1,14 @@
+/* Base Styles */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #111010;
+}
 
+main.content {
+    max-width: 1200px;
+    padding: 20px;
+}

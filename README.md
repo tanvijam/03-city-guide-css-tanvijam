@@ -1,5 +1,5 @@
 # Starter HTML and CSS
 
-This repository provides blank HTML and CSS files.
+Tanvi Jammula
 
-Before submitting, replace the text in this README file with your name and a brief description of your work (just a sentence or two will do).
+This is a website providing a guide to the city of Barcelona. It has basic information about the Barcelona, activities, and restaurants. It builds on basic HTML elements with basic CSS elements to be more visually appealing. 
