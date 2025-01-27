@@ -9,6 +9,23 @@ body {
 }
 
 main.content {
-    max-width: 1200px;
     padding: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #020202;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #c0288acf;
 }
